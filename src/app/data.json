@@ -1,0 +1,1262 @@
+[
+    {
+        "id": "mobile1",
+        "name": "vivo v29",
+        "feature": "true",
+        "description": "lorem ipsum dolor sit amet, con et consectetur lorem, sed diam nonumy",
+        "company": "vivo",
+        "all":"true",
+        "category": "mobile",
+        "review": "4.5",
+        "price": "rs 32,000",
+        "src": [
+            "v29/1.webp",
+            "v29/2.webp",
+            "v29/2.webp"
+        ],
+        "score": [
+            "90%",
+            "#72A02B"
+        ],
+        "keyspecification": {
+            "battery": {
+                "batterycapacity": "4600 mah",
+                "charging": "fast charging",
+                "charging port": "usb c-types",
+                "fastcharging": "yas,flash charge 80w 50% in 18min",
+                "batterytype": "li-Polymer"
+            },
+            "stroage": {
+                "memory": "128gb",
+                "strogetype": "UFS 3.1",
+                "otg": "yes",
+                "expandable": "not expandable"
+            },
+            "maindata": {
+                "ram": "8 GB",
+                "rearcamera": "50 MP + 8 MP + 2 MP",
+                "processor": "Qualcomm Snapdragon 778G",
+                "frontcamera": "50 MP",
+                "display": "6.78 inches",
+                "oprating": "android 13"
+            },
+            "performance": {
+                "chipset": "Qualcomm Snapdragon 778G",
+                "cpu": "Octa core (2.4 GHz, Single core, Kryo 670 + 2.4 GHz, Tri core, Kryo 670 + 1.8 GHz, Quad core, Kryo 670)",
+                "Architecture": "64",
+                "fabrication": "8nm",
+                "graphics": "Adreno 642L",
+                "ram": "8 GB",
+                "ramtype": "LLDDR4X"
+            },
+            "display": {
+                "displaytype": "Amoled",
+                "screensize": "6.78 inches",
+                "resoluation": "1260x2800",
+                "aspectratio": "20:9",
+                "refrashrate": "120 hz"
+            },
+            "design": {
+                "height": "164.1 mm",
+                "width": "74.3 mm",
+                "thick": "7.4 mm",
+                "weight": "186 gm"
+            },
+            "camera": {
+                "maincamera": {
+                    "camerasetup": "triple",
+                    "Resolution": [
+                        "50 MP f/1.88, Wide Angle, Primary Camera",
+                        "8 MP f/2.2, Ultra-Wide Angle Camera",
+                        "2 MP f/2.4, Depth Camera"
+                    ],
+                    "ois": "yes",
+                    "flesh": "yes,ring",
+                    "imgresolution": "8150 x 6150 Pixels",
+                    "vidoerecording": [
+                        "3840x2160 @ 30 fps",
+                        "1920x1080 @ 30 fps"
+                    ]
+                },
+                "frontcamera": {
+                    "camerasetup": "single",
+                    "Resolution": "50 mp",
+                    "vidoerecording": [
+                        "3840x2160 @ 30 fps",
+                        "1920x1080 @ 30 fps"
+                    ]
+                }
+            },
+            "senser": {
+                "fingerprint": "yes,on screen",
+                "othersencer": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+            },
+            "multimedia": {
+                "fm": "no",
+                "streo": "yes",
+                "loudspeaker": "yes",
+                "audiojack": "c-type"
+            },
+            "network": {
+                "simslot": "dual sim,GSM_GSM",
+                "simsize": "SIM1: Nano, SIM2: Nano",
+                "netsuppurt": "5G Supported in India, 4G Supported in India, 3G, 2G",
+                "sarvalue": "Head: 1.19 W/kg, Body: 0.91 W/kg",
+                "wifi": "Yes, Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+                "bluetooth": "yes,v5.2",
+                "usbconnect": "yes,otg for mass storage"
+            }
+        },
+        "relectedmobile": [
+            {
+                "id": "mobile2",
+                "name": "samsung s23 ultra",
+                "url": "s23/1.webp",
+                "price": "rs 1,05,999"
+            },
+            {
+                "id": "mobile3",
+                "name": "iphone 15",
+                "url": "iphone15/1.webp",
+                "price": "rs 1,25,999"
+            },
+            {
+                "id": "mobile4",
+                "name": "oppo find x6 pro",
+                "url": "oppofindx6/1.webp",
+                "price": "rs 75,999"
+            },
+            {
+                "id": "mobile5",
+                "name": "iqoo z7 pro",
+                "url": "iqooz7pro/1.webp",
+                "price": "rs 25,999"
+            }
+        ]
+    },
+    {
+        "id": "mobile2",
+        "name": "samsung s23 ultra",
+        "description": "lorem ipsum dolor sit amet, con et consectetur lorem, sed diam nonumy",
+        "company": "samsung",
+        "feature": "true",
+        "all":"true",
+        "category": "mobile",
+        "review": "4.8",
+        "price": "rs 1,05,999",
+        "src": [
+            "s23/1.webp",
+            "s23/2.webp",
+            "s23/3.webp"
+        ],
+        "score": [
+            "97%",
+            "#3D5804"
+        ],
+        "keyspecification": {
+            "battery": {
+                "batterycapacity": "5000 mah",
+                "charging": "fast charging",
+                "charging port": "usb c-types",
+                "wireless": "yes,wireless charging",
+                "fastcharging": "yas,flash charge 45w",
+                "batterytype": "li-Polymer"
+            },
+            "stroage": {
+                "memory": "256gb",
+                "strogetype": "UFS 4.0",
+                "otg": "yes",
+                "expandable": "not expandable"
+            },
+            "maindata": {
+                "ram": "12 GB",
+                "rearcamera": "200 MP + 12 MP + 10 MP + 10 M",
+                "processor": "Qualcomm Snapdragon 8 Gen 2",
+                "frontcamera": "12 MP",
+                "display": "6.8 inches (17.27 cm)",
+                "oprating": "android 13"
+            },
+            "performance": {
+                "chipset": "Qualcomm Snapdragon 8 Gen 2",
+                "cpu": "Octa core (3.36 GHz, Single core, Cortex X3 + 2.8 GHz, Quad core, Cortex A715 + 2 GHz, Tri core, Cortex A510)",
+                "Architecture": "64",
+                "fabrication": "4nm",
+                "graphics": "Adreno 740",
+                "ram": "12 GB",
+                "ramtype": "LLDDR5X"
+            },
+            "display": {
+                "displaytype": "Dynamic AMOLED",
+                "screensize": "6.8 inches (17.27 cm)",
+                "resoluation": "1440 x 3088 pixels",
+                "aspectratio": "20:9",
+                "refrashrate": "120 hz"
+            },
+            "design": {
+                "height": "163.4 mm",
+                "width": "78.1 mm",
+                "thick": "8.9 mm",
+                "weight": "233 gm"
+            },
+            "camera": {
+                "maincamera": {
+                    "camerasetup": "quad",
+                    "Resolution": [
+                        "200 MP f/1.7, Wide Angle, Primary Camera",
+                        "12 MP f/2.2, Ultra-Wide Angle Camera",
+                        "10 MP f/2.4, Telephoto Camera",
+                        "10 MP f/4.9"
+                    ],
+                    "ois": "yes",
+                    "flesh": "yes,led",
+                    "imgresolution": "14500 x 13650 Pixels",
+                    "vidoerecording": [
+                        "7680x4320 @ 30 fps",
+                        "3840x2160 @ 60 fps",
+                        "1920x1080 @ 240 fps"
+                    ]
+                },
+                "frontcamera": {
+                    "camerasetup": "single",
+                    "Resolution": "50 mp",
+                    "vidoerecording": [
+                        "3840x2160 @ 30 fps",
+                        "1920x1080 @ 30 fps"
+                    ]
+                }
+            },
+            "senser": {
+                "fingerprint": "yes,on screen",
+                "othersencer": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+            },
+            "multimedia": {
+                "fm": "no",
+                "streo": "yes",
+                "loudspeaker": "yes",
+                "audiojack": "c-type"
+            },
+            "network": {
+                "simslot": "dual sim,GSM_GSM",
+                "simsize": "SIM1: Nano, SIM2: Nano",
+                "netsuppurt": "5G Supported in India, 4G Supported in India, 3G, 2G",
+                "sarvalue": "Head: 1.12 W/kg, Body: 0.92 W/kg",
+                "wifi": "Yes, Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+                "bluetooth": "yes,v5.3",
+                "usbconnect": "yes,otg for mass storage"
+            }
+        },
+        "relectedmobile": [
+            {
+                "id": "mobile1",
+                "name": "vivo v29",
+                "url": "v29/1.webp",
+                "price": "rs 32,999"
+            },
+            {
+                "id": "mobile3",
+                "name": "iphone 15",
+                "url": "iphone15/1.webp",
+                "price": "rs 1,25,999"
+            },
+            {
+                "id": "mobile4",
+                "name": "oppo find x6 pro",
+                "url": "oppofindx6/1.webp",
+                "price": "rs 75,999"
+            },
+            {
+                "id": "mobile5",
+                "name": "iqoo z7 pro",
+                "url": "iqooz7pro/1.webp",
+                "price": "rs 25,999"
+            }
+        ]
+    },
+    {
+        "id": "mobile3",
+        "name": "iphone 15",
+        "description": "lorem ipsum dolor sit amet, con et consectetur lorem, sed diam nonumy",
+        "feature": "true",
+        "company": "apple",
+        "all":"true",
+        "category": "mobile",
+        "review": "4.9",
+        "price": "rs 1,25,999",
+        "src": [
+            "iphone15/1.webp",
+            "iphone15/2.webp",
+            "iphone15/3.webp"
+        ],
+        "score": [
+            "90%",
+            "#72A02B"
+        ],
+        "keyspecification": {
+            "battery": {
+                "batterycapacity": "3349 mah",
+                "charging": "fast charging",
+                "charging port": "usb c-types",
+                "wireless": "yes,wireless charging",
+                "fastcharging": "yas,fast charge 20w",
+                "batterytype": "li-Polymer"
+            },
+            "stroage": {
+                "memory": "128gb",
+                "strogetype": "nvme",
+                "otg": "yes",
+                "expandable": "not expandable"
+            },
+            "maindata": {
+                "ram": "6 GB",
+                "rearcamera": "48 MP + 12 MP",
+                "processor": "Apple A16 Bionic",
+                "frontcamera": "12 MP",
+                "display": "6.1 inches (15.49 cm)",
+                "oprating": "ios"
+            },
+            "performance": {
+                "chipset": "Apple A16 Bionic",
+                "cpu": "Hexa Core (3.46 GHz, Dual core, Everest + 2.02 GHz, Quad core, Sawtooth)",
+                "Architecture": "64",
+                "fabrication": "4nm",
+                "graphics": "apple gpu",
+                "ram": "6 GB",
+                "ramtype": "LLDDR5"
+            },
+            "display": {
+                "displaytype": "oled",
+                "screensize": "6.1 inches (15.49 cm)",
+                "resoluation": "1179 x 2556 pixels",
+                "aspectratio": "20:9",
+                "refrashrate": "60 hz"
+            },
+            "design": {
+                "height": "147.6 mm",
+                "width": "71.6 mm",
+                "thick": "7.8 mm",
+                "weight": "171 gm"
+            },
+            "camera": {
+                "maincamera": {
+                    "camerasetup": "dual",
+                    "Resolution": [
+                        "48 MP f/1.6, Wide Angle, Primary Camera",
+                        "12 MP f/2.4, Ultra-Wide Angle Camera"
+                    ],
+                    "ois": "yes",
+                    "flesh": "yes,duel-led",
+                    "imgresolution": "8000 x 6000 Pixels",
+                    "vidoerecording": [
+                        "3840x2160 @ 24 fps",
+                        "1920x1080 @ 30 fps"
+                    ]
+                },
+                "frontcamera": {
+                    "camerasetup": "single",
+                    "Resolution": "12 mp",
+                    "vidoerecording": [
+                        "3840x2160 @ 24 fps",
+                        "1920x1080 @ 30 fps"
+                    ]
+                }
+            },
+            "senser": {
+                "fingerprint": "no",
+                "othersencer": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+            },
+            "multimedia": {
+                "fm": "no",
+                "streo": "yes",
+                "loudspeaker": "yes",
+                "audiojack": "c-type"
+            },
+            "network": {
+                "simslot": "dual sim,GSM_GSM",
+                "simsize": "SIM1: Nano, SIM2: Nano",
+                "netsuppurt": "5G Supported in India, 4G Supported in India, 3G, 2G",
+                "sarvalue": "Head: 1.19 W/kg, Body: 0.91 W/kg",
+                "wifi": "Yes, Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
+                "bluetooth": "yes,v5.3"
+            }
+        },
+        "relectedmobile": [
+            {
+                "id": "mobile2",
+                "name": "samsung s23 ultra",
+                "url": "s23/1.webp",
+                "price": "rs 1,05,999"
+            },
+            {
+                "id": "mobile1",
+                "name": "vivo v29",
+                "url": "v29/1.webp",
+                "price": "rs 32,999"
+            },
+            {
+                "id": "mobile4",
+                "name": "oppo find x6 pro",
+                "url": "oppofindx6/1.webp",
+                "price": "rs 75,999"
+            },
+            {
+                "id": "mobile5",
+                "name": "iqoo z7 pro",
+                "url": "iqooz7pro/1.webp",
+                "price": "rs 25,999"
+            }
+        ]
+    },
+    {
+        "id": "mobile4",
+        "name": "oppo find x6 pro",
+        "feature": "true",
+        "company": "oppo",
+        "all":"true",
+        "category": "mobile",
+        "description": "lorem ipsum dolor sit amet, con et consectetur lorem, sed diam nonumy",
+        "review": "4.3",
+        "price": "rs 75,999",
+        "src": [
+            "oppofindx6/1.webp",
+            "oppofindx6/2.webp",
+            "oppofindx6/3.webp"
+        ],
+        "score": [
+            "98%",
+            "#72A02B"
+        ],
+        "keyspecification": {
+            "battery": {
+                "batterycapacity": "5000 mah",
+                "charging": "fast charging",
+                "charging port": "usb c-types",
+                "wireless": "yes,wireless charging",
+                "fastcharging": "yas,supervooc,100w",
+                "batterytype": "li-Polymer"
+            },
+            "stroage": {
+                "memory": "256gb",
+                "strogetype": "UFS 4.0",
+                "otg": "yes",
+                "expandable": "not expandable"
+            },
+            "maindata": {
+                "ram": "12 GB",
+                "rearcamera": "50 MP + 50 MP + 50 MP",
+                "processor": "Qualcomm Snapdragon 8 Gen 2",
+                "frontcamera": "32 MP",
+                "display": "6.82 inches (17.32 cm)",
+                "oprating": "android 13"
+            },
+            "performance": {
+                "chipset": "Qualcomm Snapdragon 8 Gen 2",
+                "cpu": "Octa core (3.2 GHz, Single core, Cortex X3 + 2.8 GHz, Quad core, Cortex A715 + 2 GHz, Tri core, Cortex A510",
+                "Architecture": "64",
+                "fabrication": "4nm",
+                "graphics": "Adreno 740",
+                "ram": "12 GB",
+                "ramtype": "LLDDR5X"
+            },
+            "display": {
+                "displaytype": "Amoled",
+                "screensize": "6.82 inches (17.32 cm)",
+                "resoluation": "1440 x 3168 pixels",
+                "aspectratio": "20:9",
+                "refrashrate": "120 hz"
+            },
+            "design": {
+                "height": "164.8 mm",
+                "width": "76.2 mm",
+                "thick": "9.1 mm",
+                "weight": "216 gm"
+            },
+            "camera": {
+                "maincamera": {
+                    "camerasetup": "triple",
+                    "Resolution": [
+                        "50 MP f/1.8, Wide Angle, Primary Camera",
+                        "50 MP f/2.2, Ultra-Wide Angle Camera",
+                        "50 MP f/2.6, Periscope Camera"
+                    ],
+                    "ois": "yes",
+                    "flesh": "yes,led",
+                    "imgresolution": "8150 x 6150 Pixels",
+                    "vidoerecording": [
+                        "3840x2160 @ 30 fps",
+                        "1920x1080 @ 30 fps"
+                    ]
+                },
+                "frontcamera": {
+                    "camerasetup": "single",
+                    "Resolution": "32 mp",
+                    "vidoerecording": [
+                        "3840x2160 @ 30 fps",
+                        "1920x1080 @ 30 fps"
+                    ]
+                }
+            },
+            "senser": {
+                "fingerprint": "yes,on screen",
+                "othersencer": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+            },
+            "multimedia": {
+                "fm": "no",
+                "streo": "yes",
+                "loudspeaker": "yes",
+                "audiojack": "c-type"
+            },
+            "network": {
+                "simslot": "dual sim,GSM_GSM",
+                "simsize": "SIM1: Nano, SIM2: Nano",
+                "netsuppurt": "5G Supported in India, 4G Supported in India, 3G, 2G",
+                "sarvalue": "Head: 1.19 W/kg, Body: 0.91 W/kg",
+                "wifi": "Yes, Wi-Fi 6 (802.11 a/b/e/g/n/ac/ax) 5GHz, MIMO",
+                "bluetooth": "yes,v5.3",
+                "usbconnect": "yes,otg for mass storage"
+            }
+        },
+        "relectedmobile": [
+            {
+                "id": "mobile2",
+                "name": "samsung s23 ultra",
+                "url": "s23/1.webp",
+                "price": "rs 1,05,999"
+            },
+            {
+                "id": "mobile1",
+                "name": "vivo v29",
+                "url": "v29/1.webp",
+                "price": "rs 32,999"
+            },
+            {
+                "id": "mobile3",
+                "name": "iphone 15",
+                "url": "iphone15/1.webp",
+                "price": "rs 1,25,999"
+            },
+            {
+                "id": "mobile5",
+                "name": "iqoo z7 pro",
+                "url": "iqooz7pro/1.webp",
+                "price": "rs 25,999"
+            }
+        ]
+    },
+    {
+        "id": "mobile5",
+        "name": "iqoo z7 pro",
+        "company": "vivo",
+        "feature": "true",
+        "all":"true",
+        "category": "mobile",
+        "description": "lorem ipsum dolor sit amet, con et consectetur lorem, sed diam nonumy",
+        "price": "rs 25,999",
+        "review": "4.5",
+        "src": [
+            "iqooz7pro/1.webp",
+            "iqooz7pro/2.webp",
+            "iqooz7pro/3.webp"
+        ],
+        "score": [
+            "90%",
+            "#72A02B"
+        ],
+        "keyspecification": {
+            "battery": {
+                "batterycapacity": "4600 mah",
+                "charging": "fast charging",
+                "charging port": "usb c-types",
+                "fastcharging": "yas,flash charge 66w ",
+                "batterytype": "li-Polymer"
+            },
+            "stroage": {
+                "memory": "128gb",
+                "strogetype": "UFS 2.2",
+                "otg": "yes",
+                "expandable": "not expandable"
+            },
+            "maindata": {
+                "ram": "8 GB",
+                "rearcamera": "64 MP + 2 MP",
+                "processor": "MediaTek Dimensity 7200",
+                "frontcamera": "16 MP",
+                "display": "6.78 inches",
+                "oprating": "android 13"
+            },
+            "performance": {
+                "chipset": "MediaTek Dimensity 7200",
+                "cpu": "Octa core (2.8 GHz, Dual core, Cortex A715 + 2.8 GHz, Hexa Core, Cortex A510)",
+                "Architecture": "64",
+                "fabrication": "4nm",
+                "graphics": "Mali-G610 MC4",
+                "ram": "8 GB",
+                "ramtype": "LLDDR4X"
+            },
+            "display": {
+                "displaytype": "Amoled",
+                "screensize": "6.78 inches",
+                "resoluation": "1080 x 2400 pixels",
+                "aspectratio": "20:9",
+                "refrashrate": "120 hz"
+            },
+            "design": {
+                "height": "164.1 mm",
+                "width": "74.8 mm",
+                "thick": "7.3 mm",
+                "weight": "175 gm"
+            },
+            "camera": {
+                "maincamera": {
+                    "camerasetup": "duel",
+                    "Resolution": [
+                        "64 MP f/1.79, Wide Angle, Primary Camera",
+                        "2 MP f/2.4, Depth Camera"
+                    ],
+                    "ois": "yes",
+                    "flesh": "yes,ring",
+                    "imgresolution": "9000 x 7000 Pixels",
+                    "vidoerecording": [
+                        "3840x2160 @ 30 fps"
+                    ]
+                },
+                "frontcamera": {
+                    "camerasetup": "single",
+                    "Resolution": "12 mp",
+                    "vidoerecording": [
+                        "1920x1080 @ 30 fps"
+                    ]
+                }
+            },
+            "senser": {
+                "fingerprint": "yes,on screen",
+                "othersencer": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+            },
+            "multimedia": {
+                "fm": "no",
+                "streo": "yes",
+                "loudspeaker": "yes",
+                "audiojack": "c-type"
+            },
+            "network": {
+                "simslot": "dual sim,GSM_GSM",
+                "simsize": "SIM1: Nano, SIM2: Nano",
+                "netsuppurt": "5G Supported in India, 4G Supported in India, 3G, 2G",
+                "sarvalue": "Head: 1.19 W/kg, Body: 0.91 W/kg",
+                "wifi": "Yes, Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz",
+                "bluetooth": "yes,v5.3",
+                "usbconnect": "yes,otg for mass storage"
+            }
+        },
+        "relectedmobile": [
+            {
+                "id": "mobile2",
+                "name": "samsung s23 ultra",
+                "url": "s23/1.webp",
+                "price": "rs 1,05,999"
+            },
+            {
+                "id": "mobile1",
+                "name": "vivo v29",
+                "url": "v29/1.webp",
+                "price": "rs 32,999"
+            },
+            {
+                "id": "mobile3",
+                "name": "iphone 15",
+                "url": "iphone15/1.webp",
+                "price": "rs 1,25,999"
+            },
+            {
+                "id": "mobile4",
+                "name": "oppo find x6 pro",
+                "url": "oppofindx6/1.webp",
+                "price": "rs 75,999"
+            }
+        ]
+    },
+    {
+        "id": "tablet1",
+        "name": "Xiaomi Pad 6",
+        "company": "mi",
+        "all": "true",
+        "feature": "true",
+        "tablet": "true",
+        "description": "lorem ipsum dolor sit amet, con et consectetur lorem, sed diam nonumy",
+        "price": "23,998",
+        "review": "4.4",
+        "src": [
+            "Xiaomi-Pad-6-1.webp",
+            "Xiaomi-Pad-6-2.webp",
+            "Xiaomi-Pad-6-3.webp"
+        ],
+        "score": [
+            "90%",
+            "#72A02B"
+        ],
+        "data": [
+            {
+                "genral": {
+                    "launchDate": "June 21, 2023 (Official)",
+                    "brand": "Xiaomi",
+                    "model": "Pad 6",
+                    "operatingSystem": "Android v13",
+                    "custom UI": "MIUI",
+                    "network": "5g Not Supported in India",
+                    "4G3G": "Available",
+                    "fingerprintSensor": "No",
+                    "quickCharging": "Yes"
+                },
+                "design": {
+                    "height": "253.9 mm",
+                    "width": "165.1 mm",
+                    "thickness": "6.5 mm",
+                    "weight": "490 grams",
+                    "buildMaterialBack": " Aluminium",
+                    "colours": "Mist Blue, Graphite Grey"
+                },
+                "display": {
+                    "ScreenSize": "11 inches (27.94 cm)",
+                    "ScreenResolution": "1800 x 2880 pixels",
+                    "PixelDensity": "309 ppi",
+                    "DisplayType": "IPS LCD",
+                    "ScreenProtection": "Corning Gorilla Glass v3",
+                    "TouchScreen": "Yes, Capacitive Touchscreen, Multi-touch",
+                    "ScreentoBodyRatio": "83.99 %"
+                },
+                "Performance": {
+                    "Chipset": "Qualcomm Snapdragon 870",
+                    "Processor": "Octa core (3.2 GHz, Single core, Kryo 585 + 2.42 GHz, Tri core, Kryo 585 + 1.8 GHz, Quad core, Kryo 585)",
+                    "Architecture": "64 bit",
+                    "Graphics": "Adreno 650",
+                    "RAM": "6 GB"
+                },
+                "storage": {
+                    "InternalMemory": "128 GB",
+                    "Expandable": "No"
+                },
+                "camera": [
+                    {
+                        "rearcamera": {
+                            "Resolution": "13 MP f/2.2, Primary Camera",
+                            "Autofocus": "Yes, Phase Detection autofocus",
+                            "Flash": "Yes, Dual LED Flash",
+                            "ImageResolution": "4128 x 3096 Pixels",
+                            "Settings": "Exposure compensation, ISO control",
+                            "ShootingModes": [
+                                "High Dynamic Range mode (HDR)",
+                                "Continuous Shooting"
+                            ],
+                            "CameraFeatures": [
+                                "Digital Zoom",
+                                "Auto Flash",
+                                "Face detection",
+                                "Touch to focus"
+                            ],
+                            "VideoRecording": [
+                                "3840x2160 @ 30 fps",
+                                "1920x1080 @ 30 fps"
+                            ]
+                        },
+                        "frontcamera": {
+                            " Resolution": "8 MP f/2.2, Primary Camera",
+                            "VideoRecording": [
+                                "1920x1080 @ 30 fps",
+                                "1280x720 @ 30 fps"
+                            ]
+                        }
+                    }
+                ],
+                "battery": {
+                    "Capacity": "8840 mAh",
+                    "Type": "Li-Polymer",
+                    "UserReplaceable": "No",
+                    "Standby time": "Up to 624 Hours(2G)",
+                    "QuickCharging": "Yes, Quick, v4.0, 33W: 100 % in 100 minutes",
+                    "USB": "Type-C Yes"
+                },
+                "network": {
+                    "NetworkSupport": "5G Not Supported in India",
+                    "VoLTE": "Yes",
+                    "VoiceCalling": "No",
+                    "Wi-Fi": "Yes, Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
+                    "Bluetooth": "Yes, v5.2",
+                    "NFC": "No",
+                    "USBConnectivity": "Mass storage device, USB charging"
+                },
+                "multimedia": {
+                    "FM Radio": "No",
+                    "AudioJack": "USB Type-C",
+                    "AudioFeatures": "Dolby Atmos"
+                },
+                "sensor": {
+                    "FingerprintSensor": "No",
+                    "OtherSensors": "Light sensor, Accelerometer, Gyroscope"
+                }
+            }
+        ]
+    },
+    {
+        "id": "tablet2",
+        "name": "OnePlus Pad Go",
+        "company": "oneplus",
+        "all": "true",
+        "feature": "true",
+        "description": "lorem ipsum dolor sit amet, con et consectetur lorem, sed diam nonumy",
+        "tablet": "true",
+        "price": "19,999",
+        "review": "4.5",
+        "src": [
+            "oneplus-pad-go-tablet-large-1.webp",
+            "oneplus-pad-go-tablet-large-2.webp",
+            "oneplus-pad-go-tablet-large-3.webp"
+        ],
+        "score": [
+            "90%",
+            "#72A02B"
+        ],
+        "data": [
+            {
+                "genral": {
+                    "launchDate": "October 12, 2023 (Official)",
+                    "brand": "oneplus",
+                    "model": "Pad go",
+                    "operatingSystem": "Android v13",
+                    "custom UI": "MIUI",
+                    "network": "5g Not Supported in India",
+                    "4G3G": "Available",
+                    "fingerprintSensor": "No",
+                    "quickCharging": "Yes"
+                },
+                "design": {
+                    "height": "255.1 mm",
+                    "width": "188 mm",
+                    "thickness": "6.8 mm",
+                    "weight": "532 grams",
+                    "buildMaterialBack": " Aluminium",
+                    "colours": "twin mint"
+                },
+                "display": {
+                    "ScreenSize": "11 inches (27.94 cm)",
+                    "ScreenResolution": "1720 x 2408 pixels",
+                    "PixelDensity": "261 ppi",
+                    "DisplayType": "IPS LCD",
+                    "ScreenProtection": "unknown",
+                    "TouchScreen": "Yes, Capacitive Touchscreen, Multi-touch",
+                    "ScreentoBodyRatio": "81.8 %"
+                },
+                "Performance": {
+                    "Chipset": "MediaTek Helio G99",
+                    "Processor": "Octa core (2.2 GHz, Dual core, Cortex A76 + 2 GHz, Hexa Core, Cortex A55)",
+                    "Architecture": "64 bit",
+                    "Graphics": "Mali-G57 MC2",
+                    "RAM": "8 GB"
+                },
+                "storage": {
+                    "InternalMemory": "128 GB",
+                    "Expandable": "yes,up to 1tb"
+                },
+                "camera": [
+                    {
+                        "rearcamera": {
+                            "Resolution": "8 MP, Primary Camera",
+                            "Autofocus": "no",
+                            "Flash": "no",
+                            "ImageResolution": "3264 x 2448 Pixels",
+                            "Settings": "no",
+                            "ShootingModes": [
+                                " no"
+                            ],
+                            "CameraFeatures": [
+                                "Digital Zoom"
+                            ],
+                            "VideoRecording": [
+                                "1920x1080 @ 30 fps",
+                                "1280x720 @ 30 fps"
+                            ]
+                        },
+                        "frontcamera": {
+                            " Resolution": "8 MP f/2.2, Primary Camera",
+                            "VideoRecording": [
+                                "1920x1080 @ 30 fps",
+                                "1280x720 @ 30 fps"
+                            ]
+                        }
+                    }
+                ],
+                "battery": {
+                    "Capacity": "8840 mAh",
+                    "Type": "Li-Polymer",
+                    "UserReplaceable": "No",
+                    "Standby time": "Up to 514 Hours(2G)",
+                    "QuickCharging": "Yes, Super VOOC, 33W",
+                    "USB": "Type-C Yes"
+                },
+                "network": {
+                    "NetworkSupport": "5G Not Supported in India",
+                    "VoLTE": "Yes",
+                    "VoiceCalling": "No",
+                    "Wi-Fi": "Yes, Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz",
+                    "Bluetooth": "Yes, v5.2",
+                    "NFC": "No",
+                    "USBConnectivity": "Mass storage device, USB charging"
+                },
+                "multimedia": {
+                    "FM Radio": "No",
+                    "AudioJack": "USB Type-C",
+                    "AudioFeatures": "Dolby Atmos"
+                },
+                "sensor": {
+                    "FingerprintSensor": "No",
+                    "OtherSensors": "Light sensor, Accelerometer, Gyroscope"
+                }
+            }
+        ]
+    },
+    {
+        "id": "tablet3",
+        "name": "realme Pad 2",
+        "company": "realme",
+        "all": "true",
+        "feature": "true",
+        "tablet": "true",
+        "description": "lorem ipsum dolor sit amet, con et consectetur lorem, sed diam nonumy",
+        "price": "19,999",
+        "review": "4.5",
+        "src": [
+            "realme-pad-2-tablet-large-1.webp",
+            "realme-pad-2-tablet-thumb-2.webp",
+            "realme-pad-2-tablet-thumb-3.webp"
+        ],
+        "score": [
+            "90%",
+            "#72A02B"
+        ],
+        "data": [
+            {
+                "genral": {
+                    "launchDate": "July 26, 2023 (Official)",
+                    "brand": "realme",
+                    "model": "Pad 2",
+                    "operatingSystem": "Android v13",
+                    "custom UI": "Realme UI",
+                    "simslot": "dual sim,GSM_GSM",
+                    "network": "5g Not Supported in India",
+                    "4G3G": "Available",
+                    "fingerprintSensor": "No",
+                    "quickCharging": "Yes"
+                },
+                "design": {
+                    "colours": "Imagination Grey, Inspiration Green"
+                },
+                "display": {
+                    "ScreenSize": "11.5 inches (29.21 cm)",
+                    "ScreenResolution": "1200 x 2000 pixels",
+                    "PixelDensity": "203 ppi",
+                    "DisplayType": "IPS LCD",
+                    "ScreenProtection": "unknown",
+                    "TouchScreen": "Yes, Capacitive Touchscreen, Multi-touch",
+                    "ScreentoBodyRatio": "81.8 %"
+                },
+                "Performance": {
+                    "Chipset": "MediaTek Helio G99",
+                    "Processor": "Octa core (2.2 GHz, Dual core, Cortex A76 + 2 GHz, Hexa Core, Cortex A55)",
+                    "Architecture": "64 bit",
+                    "Graphics": "Mali-G57 MC2",
+                    "RAM": "6 GB"
+                },
+                "storage": {
+                    "InternalMemory": "128 GB",
+                    "Expandable": "yes,up to 2 tb"
+                },
+                "camera": [
+                    {
+                        "rearcamera": {
+                            "Resolution": "8 MP, Primary Camera",
+                            "Autofocus": "no",
+                            "Flash": "no",
+                            "ImageResolution": "3264 x 2448 Pixels",
+                            "Settings": "no",
+                            "ShootingModes": [
+                                " no"
+                            ],
+                            "CameraFeatures": [
+                                "Digital Zoom"
+                            ],
+                            "VideoRecording": [
+                                "1920x1080 @ 30 fps",
+                                "1280x720 @ 30 fps"
+                            ]
+                        },
+                        "frontcamera": {
+                            " Resolution": "5 MP f/2.2, Primary Camera",
+                            "VideoRecording": [
+                                "1920x1080 @ 30 fps",
+                                "1280x720 @ 30 fps"
+                            ]
+                        }
+                    }
+                ],
+                "battery": {
+                    "Capacity": "8360 mAh",
+                    "Type": "Li-Polymer",
+                    "UserReplaceable": "No",
+                    "Standby time": "Up to 514 Hours(2G)",
+                    "QuickCharging": "Yes, Super VOOC, 33W",
+                    "USB": "Type-C Yes"
+                },
+                "network": {
+                    "NetworkSupport": "5G Not Supported in India,4g,3g,2g Available",
+                    "simslot": "dual sim,GSM_GSM",
+                    "VoLTE": "Yes",
+                    "VoiceCalling": "yes",
+                    "GPS": "Yes with A-GPS support",
+                    "Wi-Fi": "Yes, Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz",
+                    "Bluetooth": "Yes, v5.2",
+                    "NFC": "No",
+                    "USBConnectivity": "Mass storage device, USB charging"
+                },
+                "multimedia": {
+                    "FM Radio": "No",
+                    "AudioJack": "USB Type-C",
+                    "AudioFeatures": "Dolby Atmos"
+                },
+                "sensor": {
+                    "OtherSensors": "Light sensor, Accelerometer, Gyroscope"
+                }
+            }
+        ]
+    },
+    {
+        "id": "tablet4",
+        "name": "Honor Pad X9",
+        "company": "honer",
+        "all": "true",
+        "feature": "true",
+        "tablet":"true",
+        "price": "15,999",
+        "description": "lorem ipsum dolor sit amet, con et consectetur lorem, sed diam nonumy",
+        "review": "4.5",
+        "src": [
+            "honor-pad-x9-tablet-large-1.webp",
+            "honor-pad-x9-tablet-thumb-2.webp",
+            "honor-pad-x9-tablet-thumb-3.webp"
+        ],
+        "score": [
+            "90%",
+            "#72A02B"
+        ],
+        "data": [
+            {
+                "genral": {
+                    "launchDate": "July 30, 2023 (Official)",
+                    "brand": "honer",
+                    "model": "Pad x9",
+                    "operatingSystem": "Android v13",
+                    "custom UI": "Magic UII",
+                    "network": "5g, Not Supported in India",
+                    "4G3G": "not Available",
+                    "fingerprintSensor": "No",
+                    "quickCharging": "Yes"
+                },
+                "design": {
+                    "Height": "267.3 mm",
+                    "Width": "167.4 mm",
+                    "Thickness": "6.9 mm",
+                    "Weight": "495 grams",
+                    "BuildMaterial": "Aluminium",
+                    "colours": "Imagination Grey, Inspiration Green"
+                },
+                "display": {
+                    "ScreenSize": "11.5 inches (29.21 cm)",
+                    "ScreenResolution": "1200 x 2000 pixels",
+                    "PixelDensity": "203 ppi",
+                    "DisplayType": "tft lcd",
+                    "ScreenProtection": "unknown",
+                    "TouchScreen": "Yes, Capacitive Touchscreen, Multi-touch",
+                    "ScreentoBodyRatio": "84.12 %"
+                },
+                "Performance": {
+                    "Chipset": "Qualcomm Snapdragon 685",
+                    "Processor": "Octa core (2.8 GHz, Quad core, Kryo 265 + 1.9 GHz, Quad core, Kryo 265)",
+                    "Architecture": "64 bit",
+                    "Graphics": "Adreno 610",
+                    "RAM": "4 GB"
+                },
+                "storage": {
+                    "InternalMemory": "128 GB",
+                    "Expandable": "no"
+                },
+                "camera": [
+                    {
+                        "rearcamera": {
+                            "Resolution": "5 MP f/2.2, Primary Camera",
+                            "Autofocus": "yes",
+                            "Flash": "no",
+                            "ImageResolution": "2592 x 1944 Pixels",
+                            "Settings": "no",
+                            "ShootingModes": [
+                                " no"
+                            ],
+                            "CameraFeatures": "Digital Zoom",
+                            "VideoRecording": [
+                                "1920x1080 @ 30 fps",
+                                "1280x720 @ 30 fps"
+                            ]
+                        },
+                        "frontcamera": {
+                            " Resolution": "5 MP f/2.2, Primary Camera",
+                            "VideoRecording": [
+                                "1920x1080 @ 30 fps",
+                                "1280x720 @ 30 fps"
+                            ]
+                        }
+                    }
+                ],
+                "battery": {
+                    "Capacity": "7250 mAh",
+                    "Type": "Li-Polymer",
+                    "UserReplaceable": "No",
+                    "Standby time": "unknown",
+                    "QuickCharging": "Yes, Fast, 22.5W",
+                    "USB": "Type-C Yes"
+                },
+                "network": {
+                    "NetworkSupport": "5G Not Supported in India",
+                    "VoLTE": "no",
+                    "VoiceCalling": "no",
+                    "Wi-Fi": "Yes, Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz",
+                    "Bluetooth": "Yes, v5.2",
+                    "NFC": "No",
+                    "USBConnectivity": "Mass storage device, USB charging"
+                },
+                "multimedia": {
+                    "FM Radio": "No",
+                    "AudioJack": "USB Type-C",
+                    "AudioFeatures": "Dolby Atmos"
+                },
+                "sensor": {
+                    "OtherSensors": "Light sensor, Accelerometer, Gyroscope"
+                }
+            }
+        ]
+    },
+    {
+        "id": "tablet5",
+        "name": "Apple iPad Pro 12.9 2022 WiFi + Cellular 2TB",
+        "company": "apple",
+        "all": "true",
+        "feature": "true",
+        "description": "lorem ipsum dolor sit amet, con et consectetur",
+        "tablet":"true",
+        "price": "237,900",
+        "review": "4.5",
+        "src": [
+            "apple-pad-1.jpg",
+            "apple-pad-2.jpg",
+            "apple-pad-3.jpg"
+        ],
+        "score": [
+            "90%",
+            "#72A02B"
+        ],
+        "data": [
+            {
+                "genral": {
+                    "launchDate": "July 30, 2023 (Official)",
+                    "brand": "apple",
+                    "model": "iPad Pro 12.9 2022 WiFi + Cellular 2TB",
+                    "operatingSystem": "iPadOS v16",
+                    "network": "5g Supported in India",
+                    "4G3G": "Available",
+                    "simslot":"single",
+                    "fingerprintSensor": "No",
+                    "quickCharging": "Yes"
+                },
+                "design": {
+                    "Height": "280.6 mm",
+                    "Width": "214.9 mm",
+                    "Thickness": "6.4 mm",
+                    "Weight": "685 grams",
+                    "BuildMaterial": "black Aluminium",
+                    "colours": "Silver, Space Grey"
+                },
+                "display": {
+                    "ScreenSize": "12.9 inches (32.77 cm)",
+                    "ScreenResolution": "2048 x 2732 pixels",
+                    "PixelDensity": "265 ppi",
+                    "DisplayType": "ips lcd",
+                    "ScreenProtection": "unknown",
+                    "TouchScreen": "Yes, Capacitive Touchscreen, Multi-touch",
+                    "ScreentoBodyRatio": "85.46 %"
+                },
+                "Performance": {
+                    "Chipset": "Apple M2",
+                    "Processor": "Octa core (3.49 GHz, Quad core + 2.4 GHz, Quad core)",
+                    "Architecture": "64 bit",
+                    "Graphics": "Apple GPU (Ten-core graphics)",
+                    "RAM": "16 GB"
+                },
+                "storage": {
+                    "InternalMemory": "2 TB",
+                    "Expandable": "no"
+                },
+                "camera": [
+                    {
+                        "rearcamera": {
+                            "Resolution": "12 MP + 10 MP Dual Primary Cameras",
+                            "Autofocus": "yes",
+                            "Flash": "Yes, Quad LED true Tone Flash",
+                            "ImageResolution": "4000 x 3000 Pixels",
+                            "Settings": "Exposure compensation, ISO control",
+                            "ShootingModes": 
+                                "High Dynamic Range mode (HDR),Burst mode"
+                                
+                            ,
+                            "CameraFeatures": ["5 x Digital Zoom","2 x Optical Zoom","Auto Flash","Face detection","Touch to focus"],
+                            "VideoRecording": [
+                                "3840x2160 @ 24 fps",
+                                "1920x1080 @ 30 fps",
+                                "1280x720 @ 30 fps"
+                            ]
+                        },
+                        "frontcamera": {
+                            " Resolution": "12 MP Front Camera",
+                            "VideoRecording": [
+                                "1920x1080 @ 30 fps",
+                                "1280x720 @ 30 fps"
+                            ]
+                        }
+                    }
+                ],
+                "battery": {
+                    "Capacity": "10758 mAh",
+                    "Type": "Li-Polymer",
+                    "UserReplaceable": "No",
+                    "Standby time": "unknown",
+                    "QuickCharging": "Yes, Fast, 18W",
+                    "USB": "Type-C Yes"
+                },
+                "network": {
+                    "NetworkSupport": "5G Supported in India,4g,3g,2g Available",
+                    "simslot":"single sim,GSM",
+                    "VoLTE": "Yes",
+                    "VoiceCalling": "yes",
+                    "Wi-Fi": "Yes, Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz",
+                    "Bluetooth": "Yes, v5.2",
+                    "NFC": "No",
+                    "USBConnectivity": "Mass storage device, USB charging",
+                    "GPS":"Yes with A-GPS support",
+                    "HDMI"	:"YesMini HDMI (Type C)"
+                },
+                "multimedia": {
+                    "FM Radio": "No",
+                    "AudioJack": "USB Type-C",
+                    "AudioFeatures": "Dolby Atmos"
+                },
+                "sensor": {
+                    "OtherSensors": "Light sensor, Accelerometer, Gyroscope"
+                }
+            }
+        ]
+    }
+]
