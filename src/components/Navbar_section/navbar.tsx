@@ -41,7 +41,7 @@ function Navbar() {
         <HiOutlineLocationMarker className="font-bold text-lg w-[60%] h-[60%] text-end" />
         <div className="w-fitcontent w-fit grid grid-rows-[0.3fr_0.3fr] leading-4">
           <p className="w-fit text-xs text-gray-300 capitalize">delivi to me</p>
-          <p className="w-[150px]">update location</p>
+          <p className="w-[150px]">update locat</p>
         </div>
       </div>
       <div className="w-[500px] rounded-md group  flex flex-rows justify-center h-fit bg-[#ff9900] ">
